@@ -13,7 +13,7 @@ FastAdmin是一款基于ThinkPHP5+Bootstrap的极速后台开发框架。
     * 一键生成控制器菜单和规则
     * 一键生成API接口文档
 * 完善的前端功能组件开发
-    * 基于`AdminLTE`二次开发
+    * 基于`AdminLTE`二次开发2
     * 基于`Bootstrap`开发，自适应手机、平板、PC
     * 基于`RequireJS`进行JS模块管理，按需加载
     * 基于`Less`进行样式开发
